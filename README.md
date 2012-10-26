@@ -1,3 +1,4 @@
+From Josh:
 Shit that I Already Know Needs To Get Done:
 
 1. This needs a real api, vs. parsing a stale ics file. I am presuming that any api key, if necessary, should *not* be stored directly in git.
